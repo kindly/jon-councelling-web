@@ -23,9 +23,13 @@ h2 {
     -moz-border-radius-topright: 16px;
     border-top-left-radius: 16px;
     border-top-right-radius: 16px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 .main {
     background-color: #EAE5E5;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 .bottom {
     background-color: #204546;
@@ -36,6 +40,8 @@ h2 {
     border-bottom-left-radius: 16px;
     border-bottom-right-radius: 16px;
     color:#EAE5E5;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .main img {
